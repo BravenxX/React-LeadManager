@@ -6,9 +6,11 @@ José N.
 
 - React
 
-## Empezar
+## Iniciar
 
-1. Iniciar servidor en proyecto: "LEAD MANAGER BACKEND"
+1. Iniciar LeadManager_backend:
+
+https://github.com/BravenxX/Django-LeadManager
 
 2. En root:
 
